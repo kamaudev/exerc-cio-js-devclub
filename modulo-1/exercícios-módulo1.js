@@ -1,6 +1,4 @@
-// Programa que exiba "Olá, mundo!" no console.//
-const mensagem = "Olá Mundo!"
-console.log(mensagem)
+
 
 //Programa que calcule a média de três números e exiba o resultado no console.//
 const num1 = 10;
